@@ -1,14 +1,12 @@
 0x13. JavaScript - Objects, Scopes and Closures
 0. Rectangle #0
 mandatory
-Score: 0.0% (Checks completed: 0.0%)
 Write an empty class Rectangle that defines a rectangle:
 
 You must use the class notation for defining your class
 
 1. Rectangle #1
 mandatory
-Score: 0.0% (Checks completed: 0.0%)
 Write a class Rectangle that defines a rectangle:
 
 You must use the class notation for defining your class
@@ -18,7 +16,6 @@ Initialize the instance attribute height with the value of h
 
 2. Rectangle #2
 mandatory
-Score: 0.0% (Checks completed: 0.0%)
 Write a class Rectangle that defines a rectangle:
 
 You must use the class notation for defining your class
@@ -29,7 +26,6 @@ If w or h is equal to 0 or not a positive integer, create an empty object
 
 3. Rectangle #3
 mandatory
-Score: 0.0% (Checks completed: 0.0%)
 Write a class Rectangle that defines a rectangle:
 
 You must use the class notation for defining your class
@@ -41,7 +37,6 @@ Create an instance method called print() that prints the rectangle using the cha
 
 4. Rectangle #4
 mandatory
-Score: 0.0% (Checks completed: 0.0%)
 Write a class Rectangle that defines a rectangle:
 
 You must use the class notation for defining your class
@@ -55,7 +50,6 @@ Create an instance method called double() that multiples the width and the heigh
 
 5. Square #0
 mandatory
-Score: 0.0% (Checks completed: 0.0%)
 Write a class Square that defines a square and inherits from Rectangle of 4-rectangle.js:
 
 You must use the class notation for defining your class and extends
@@ -64,7 +58,6 @@ The constructor of Rectangle must be called (by using super())
 
 6. Square #1
 mandatory
-Score: 0.0% (Checks completed: 0.0%)
 Write a class Square that defines a square and inherits from Square of 5-square.js:
 
 You must use the class notation for defining your class and extends
@@ -73,14 +66,12 @@ If c is undefined, use the character X
 
 7. Occurrences
 mandatory
-Score: 0.0% (Checks completed: 0.0%)
 Write a function that returns the number of occurrences in a list:
 
 Prototype: exports.nbOccurences = function (list, searchElement)
 
 8. Esrever
 mandatory
-Score: 0.0% (Checks completed: 0.0%)
 Write a function that returns the reversed version of a list:
 
 Prototype: exports.esrever = function (list)
@@ -88,7 +79,6 @@ You are not allow to use the built-in method reverse
 
 9. Log me
 mandatory
-Score: 0.0% (Checks completed: 0.0%)
 Write a function that prints the number of arguments already printed and the new argument value. (see example below)
 
 Prototype: exports.logMe = function (item)
@@ -96,7 +86,6 @@ Output format: <number arguments already printed>: <current argument value>
 
 10. Number conversion
 mandatory
-Score: 0.0% (Checks completed: 0.0%)
 Write a function that converts a number from base 10 to another base passed as argument:
 
 Prototype: exports.converter = function (base)
